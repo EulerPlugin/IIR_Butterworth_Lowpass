@@ -1,0 +1,11 @@
+Builds/**/build/
+*.a
+*.app
+*.component
+*.dylib
+*.so
+*.exe
+
+# Source 폴더는 예외 (포함시키기)
+!Source/
+!Source/**
