@@ -1,0 +1,7 @@
+Builds/**/build/
+*.a
+*.app
+*.component
+*.dylib
+*.so
+*.exe
